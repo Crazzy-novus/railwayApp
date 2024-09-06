@@ -1,0 +1,6 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[77.8552433,9.5269813]},
+"properties":{"facilityType":"Parcel Office"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[77.8549803,9.526015]},
+"properties":{"facilityType":"Waiting Hall"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[77.8547218,9.5264203]},
+"properties":{"facilityType":"Rest Room"}},{"type":"Feature","geometry":{"type":"LineString","coordinates":
+[[77.8552155,9.5268925],[77.8552155,9.5268925],[77.8549803,9.526015],[77.8547218,9.5264203],
+[77.8548413,9.5264062]]},"properties":{"type":"Route"}}]}
